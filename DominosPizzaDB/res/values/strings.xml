@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DominosPizzaDB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+      <string name="text1">Introduzca el nombre de la sede a buscar</string>
+
+    <string name="sBuscar">Buscar</string>
+
+    <string name="Fragmento_b">Fragment B</string>
+    <string name="Fragmento_c">Fragment C</string>
+    <string name="sHint">Sede</string>
+    <string name="sNombre">Sede</string>
+    <string name="sInsertar">Ingrese los datos de la nueve sede</string>
+    <string name="sNota1">Latitud:</string>
+    <string name="sNota2">Longitud:</string>
+    <string name="sNota3">Nota 3:</string>
+    <string name="sBotonInsertar">guardar</string>
+    <string name="sDelText">Ingrese el nombre de la sede a borrar</string>
+    <string name="sDelHint">Sede</string>
+    <string name="sDelBorrar">Borrar</string>
+    <string name="sSobreescribir">Ingrese el nombre dela sede modificar</string>
+    <string name="sBotonSobreescribir">Modificar</string>
+    <string name="sBuscarSede">Buscar Sede</string>
+    <string name="sAgregarSede">Agregar Sede</string>
+    <string name="sEliminarSede">Eliminar Sede</string>
+    <string name="sEditarSede">Editar Sede</string>
+
+    
+</resources>
